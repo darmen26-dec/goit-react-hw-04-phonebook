@@ -1,0 +1,46 @@
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contactsList {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  list-style: none;
+  margin: 20px auto;
+}
+
+.contactsItem {
+  display: flex;
+  flex-wrap: row;
+  align-items: center;
+}
+
+.contactsName {
+  margin-right: 15px;
+  font-size: 15px;
+}
+
+.contactsNumber {
+  font-size: 15px;
+  margin-right: 15px;
+}
+
+.contactsBtn {
+  background-color: #f3f9f7e0;
+  border: none;
+  color: #3e454c34;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  text-align: center;
+  transition: all 0.5s;
+  margin: 0 auto;
+}
+
+.contactsBtn:hover {
+  background-color: rgb(1, 198, 136);
+  color: #fff;
+}

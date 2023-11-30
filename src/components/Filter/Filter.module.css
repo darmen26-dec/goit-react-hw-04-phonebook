@@ -1,0 +1,15 @@
+.filter {
+  display: block;
+  align-items: center;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding: 10px;
+  margin-inline: auto;
+  font-size: 15px;
+  line-height: 1.2;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}

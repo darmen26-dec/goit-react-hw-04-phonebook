@@ -1,0 +1,32 @@
+.form {
+  text-align: center;
+}
+
+.title {
+  font-size: 15px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+.input {
+  display: block;
+  align-items: center;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  margin-inline: auto;
+  font-size: 15px;
+  line-height: 1.2;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.separator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
